@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1694619611291" clover="3.2.0">
+  <project timestamp="1694619611291" name="All files">
+    <metrics statements="24" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="6" elements="34" coveredelements="23" complexity="0" loc="24" ncloc="24" packages="7" files="7" classes="7"/>
+    <package name="AllRecipies">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="AllRecipies.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/AllRecipies/AllRecipies.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="58" count="3" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="63" count="12" type="stmt"/>
+      </file>
+    </package>
+    <package name="Footer">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Footer.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/Footer/Footer.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="FrontImage">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MainImage.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/FrontImage/MainImage.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="37" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="Layout">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Layout.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/Layout/Layout.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Navbar">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Navbar.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/Navbar/Navbar.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="RecipieDetails">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="RecipieDetails.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/RecipieDetails/RecipieDetails.tsx">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="TopBrand">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="TopBrand.tsx" path="/Users/sarang.tandel.ext/Desktop/Sarang/intive-clone/src/components/TopBrand/TopBrand.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
